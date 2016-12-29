@@ -1,0 +1,50 @@
+body {
+	margin: auto;
+}
+
+#d_board {
+	background-color: #626567;
+    padding:20px;
+    border-radius: 5px;
+}
+
+#d_board p {
+	font-size: 40px;
+}
+
+#d_board #logout {
+	float: right;
+	font-size: 20px;
+}
+
+#gallery {
+	background-color: #4d5656 ;
+	border-radius: 5px;
+}
+
+#gallery p {
+	margin:0;
+	font-size: 25px;
+	padding: 10px 28px 10px 45px;
+}
+
+#container {
+	background-color: #566573;
+	float: left;
+	display: inline-block;
+	padding-bottom: 20px;
+	border-radius: 5px;
+}
+
+#box {
+	width:17%;
+	display: inline-block;
+	border:1px solid white;
+	padding: 22px;
+	margin: 20px 0px 0px 45px;
+}
+
+#para {
+	text-align: center;
+}
+
